@@ -1,0 +1,14 @@
+Name, Subject, Marks
+Geethma,Science,75
+Danindu,Science,89
+Sanduni,Science,55
+Kasuni, Science, 90
+Gagani, Science, 67
+Geethma,Sinhala, 51
+Danindu,Sinhala, 96
+Sanduni,Sinhala,87
+Kasuni,Sinhala,78
+Gagani, Maths, 78
+Geethma, Maths, 76
+Sanduni, Maths, 85
+Danindu, Maths, 35
