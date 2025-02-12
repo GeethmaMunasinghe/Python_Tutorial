@@ -1,0 +1,4 @@
+Top student for Science is Kasuni with 90 marks
+Top student for Sinhala is Danindu with 96 marks
+Top student for Maths is Sanduni with 85 marks
+Top student overall is Sanduni with 227 marks.
